@@ -17,7 +17,7 @@ on:
         - major
 
 jobs:
-  patch:
+  release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
